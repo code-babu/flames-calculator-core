@@ -1,0 +1,26 @@
+{
+  "name": "flames-engine",
+  "version": "1.0.0",
+  "description": "Zero-dependency TypeScript engine and circular elimination algorithm for the FLAMES relationship game",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "flames",
+    "flames-calculator",
+    "love-calculator",
+    "relationship-test",
+    "compatibility",
+    "algorithm"
+  ],
+  "author": "FLAMES Calculator Team",
+  "homepage": "https://www.flamecalculator.in",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/code-babu/flames-calculator-core"
+  },
+  "license": "MIT"
+}
